@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Acceptance Region
 
-You can use the [editor on GitHub](https://github.com/Imathatguy/Acceptance-Region/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the landing page for multiple independent repositories used for the evalation of the Acceptance Region of machine learning models trained for the task of Authentication.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Paper link: ```pending```
 
-### Markdown
+## Real-World Datasets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our evaluation is performed over four different biometric modalities.
 
-```markdown
-Syntax highlighted code block
+- Facial Authentication (https://github.com/Imathatguy/facenet-auth)
+- Voice Authentication (https://github.com/Imathatguy/voice-auth)
+- Gait Authentication (https://github.com/Imathatguy/gait-auth)
+- Touch Authentication (https://github.com/Imathatguy/touch-auth)
 
-# Header 1
-## Header 2
-### Header 3
+## Synthetic Dataset
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Imathatguy/Acceptance-Region/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Coming soon.
