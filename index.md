@@ -2,7 +2,7 @@
 
 This is the landing page for multiple independent repositories used for the evalation of the Acceptance Region of machine learning models trained for the task of Authentication.
 
-Paper link: ```pending```
+Paper link: ```coming soon```
 
 ## Real-World Datasets
 
@@ -15,4 +15,4 @@ Our evaluation is performed over four different biometric modalities.
 
 ## Synthetic Dataset
 
-Coming soon.
+```coming soon```
