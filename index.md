@@ -11,7 +11,7 @@ Our evaluation is performed over four different biometric modalities.
 - Facial Authentication [https://github.com/Imathatguy/facenet-auth](https://github.com/Imathatguy/facenet-auth)
 - Voice Authentication [https://github.com/Imathatguy/voice-auth](https://github.com/Imathatguy/voice-auth)
 - Gait Authentication [https://github.com/Imathatguy/gait-auth](https://github.com/Imathatguy/gait-auth) ```Updated 23/1/2020```
-- Touch Authentication [https://github.com/Imathatguy/touch-auth](https://github.com/Imathatguy/touch-auth)
+- Touch Authentication [https://github.com/Imathatguy/touch-auth](https://github.com/Imathatguy/touch-auth) ```Updated 17/3/2020```
 
 ## Synthetic Dataset
 
